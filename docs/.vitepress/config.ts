@@ -85,7 +85,7 @@ export default defineConfig({
 
     /*** 自定义配置 ***/
     visitor: {
-      badgeId: 'maomao1996.vitepress-nav-template',
+      badgeId: 'biliww.navWeb',
     },
 
     comment: {

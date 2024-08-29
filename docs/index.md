@@ -4,8 +4,8 @@ layoutClass: 'm-home-layout'
 
 hero:
   name: biliww
-  text: 婵婵最好
-  tagline: 婵婵最棒
+  text: 云想衣裳花想容 春风拂槛露华浓~
+  tagline:
   image:
     src: /logo.png
     alt: biliww
