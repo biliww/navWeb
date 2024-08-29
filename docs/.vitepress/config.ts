@@ -89,10 +89,10 @@ export default defineConfig({
     },
 
     comment: {
-      repo: 'maomao1996/vitepress-nav-template',
-      repoId: 'R_kgDOJC09Jg',
+      repo: 'biliww/navWeb',
+      repoId: 'R_kgDOMp7zYA',
       category: 'Announcements',
-      categoryId: 'DIC_kwDOJC09Js4Cekn0',
+      categoryId: 'DIC_kwDOMp7zYM4CiCDF',
     },
   },
 
