@@ -1,0 +1,4 @@
+title: navWeb
+description: This is the website for navWeb.
+url: "https://hub.wangpl.cn" # 你的自定义域名
+baseurl: "/navWeb" # 项目路径
