@@ -8,7 +8,8 @@ const APP_BASE_PATH = basename(process.env.GITHUB_REPOSITORY || '')
 
 export default defineConfig({
   outDir: '../dist',
-  base: APP_BASE_PATH ? `/${APP_BASE_PATH}/` : '/',
+  // base: APP_BASE_PATH ? `/${APP_BASE_PATH}/` : '/',
+  base: '/',
 
   lang: 'zh-CN',
   title: 'biliw网站导航',
