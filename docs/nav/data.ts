@@ -50,6 +50,18 @@ export const NAV_DATA: NavData[] = [
         desc: '图标设计网站',
         link: 'https://icon.kitchen',
       },
+      {
+        icon: 'https://fontawesome.com/favicon.ico',
+        title: 'fontawesome',
+        desc: 'svg图标网站',
+        link: 'https://fontawesome.com',
+      },
+      {
+        icon: 'https://app.logodiffusion.com/favicon.ico',
+          title: 'logodiffusion',
+        desc: 'logo设计网站',
+        link: 'https://app.logodiffusion.com',
+      },
     ],
   },
   {
@@ -85,6 +97,12 @@ export const NAV_DATA: NavData[] = [
         icon: 'https://global-uploads.webflow.com/59deb588800ae30001ec19c9/5d4891e0e260e3c1bc37b100_beautiful%20ai%20favicon%20%20blue%20square.png',
         title: 'Beautiful.ai（PPT）',
         link: 'https://www.beautiful.ai',
+      },
+      {
+        icon: 'https://openui.fly.dev/favicon.png',
+        title: 'ai生成网页(html&vue等)',
+        link: 'https://openui.fly.dev',
+        desc: 'Describe the UI you\'d like to generate.',
       },
     ],
   },
@@ -199,6 +217,12 @@ export const NAV_DATA: NavData[] = [
         desc: '一个功能类优先的 CSS 框架',
         link: 'https://www.tailwindcss.cn',
       },
+      {
+        icon: 'https://animate.style',
+        title: 'animate-style',
+        desc: '动态效果网站',
+        link: 'https://animate.style',
+      },
     ],
   },
   {
@@ -222,12 +246,7 @@ export const NAV_DATA: NavData[] = [
         desc: '一个使用 Vue.js 开发所有前端应用的框架',
         link: 'https://uniapp.dcloud.net.cn',
       },
-      {
-        icon: 'https://mpxjs.cn/favicon.ico',
-        title: 'Mpx',
-        desc: '增强型跨端小程序框架',
-        link: 'https://mpxjs.cn',
-      },
+
     ],
   },
 
