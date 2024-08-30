@@ -1,6 +1,6 @@
 ---
 layout: home
-layoutClass: 'm-home-layout'
+layoutClass: 'my-home-layout-class'
 
 hero:
   name: biliww
@@ -59,16 +59,16 @@ features:
 
 <style>
 /*爱的魔力转圈圈*/
-.m-home-layout .image-src:hover {
+.my-home-layout-class .image-src:hover {
   transform: translate(-50%, -50%) rotate(666turn);
   transition: transform 59s 1s cubic-bezier(0.3, 0, 0.8, 1);
 }
 
-.m-home-layout .details small {
+.my-home-layout-class .details small {
   opacity: 0.8;
 }
 
-.m-home-layout .bottom-small {
+.my-home-layout-class .bottom-small {
   display: block;
   margin-top: 2em;
   text-align: right;
