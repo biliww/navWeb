@@ -45,6 +45,12 @@ export const NAV_DATA: NavData[] = [
     title: 'web设计汇总',
     items: [
       {
+        icon: 'https://iconify.design/favicon.svg',
+        title: 'iconify',
+        desc: '免费的svg图标网站',
+        link: 'https://iconify.design',
+      },
+      {
         icon: 'https://icon.kitchen/favicon.ico',
         title: 'icon',
         desc: '图标设计网站',
@@ -151,6 +157,12 @@ export const NAV_DATA: NavData[] = [
         title: 'Element Plus',
         desc: '基于 Vue 3，面向设计师和开发者的组件库',
         link: 'https://element-plus.org',
+      },
+      {
+        icon: 'https://www.naiveui.com/assets/naivelogo-BdDVTUmz.svg',
+        title: 'Naive UI',
+        desc: '基于 Vue 3，Naive UI',
+        link: 'https://www.naiveui.com/',
       },
       {
         icon: 'https://www.antdv.com/assets/logo.1ef800a8.svg',

@@ -23,8 +23,8 @@ hero:
 features:
   - icon: 📖
     title: 物语
-    details: netty聊天室
-    link: https://blog.wangpl.cn
+    details: 聊天室联系我
+    link: https://blog.wangpl.cn/imNetty
     linkText: 聊天室
 ---
 
