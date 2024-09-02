@@ -123,6 +123,12 @@ export const NAV_DATA: NavData[] = [
         link: 'https://cn.vuejs.org',
       },
       {
+        icon: 'https://cn.vitejs.dev/logo.svg',
+        title: 'Vite',
+        desc: '下一代的前端工具链',
+        link: 'https://cn.vitejs.dev/',
+      },
+      {
         icon: 'https://vitepress.dev/vitepress-logo-mini.svg',
         title: 'VitePress',
         desc: '由 Vite 和 Vue 驱动的静态站点生成器',
