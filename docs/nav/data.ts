@@ -68,6 +68,12 @@ export const NAV_DATA: NavData[] = [
         desc: 'logo设计网站',
         link: 'https://app.logodiffusion.com',
       },
+      {
+        icon: 'https://static.jyshare.com/images/c-runoob-logo.ico',
+        title: 'RGB转16进制',
+        desc: 'RGB转16进制工具',
+        link: 'https://www.jyshare.com/front-end/55/',
+      },
     ],
   },
   {
