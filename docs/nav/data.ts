@@ -203,6 +203,18 @@ export const NAV_DATA: NavData[] = [
     ],
   },
   {
+    title: 'Vue工具&功能',
+    items: [
+      {
+        icon: '',
+        title: 'md-editor-v3',
+        desc: 'Markdown编辑器Vue3版本，使用jsx和typescript语法开发，支持切换主题、prettier美化文本等',
+        link: 'https://imzbf.github.io/md-editor-v3/zh-CN/docs',
+      },
+
+    ],
+  },
+  {
     title: 'JavaScript 框架类库',
     items: [
       {
