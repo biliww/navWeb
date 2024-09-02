@@ -8,7 +8,7 @@ const APP_BASE_PATH = basename(process.env.GITHUB_REPOSITORY || '')
 
 export default defineConfig({
   outDir: '../dist',
-  // base: APP_BASE_PATH ? `/${APP_BASE_PATH}/` : '/',
+  // base: APP_BASE_PATH ? `/${APP_BASE_PATH}/` : '/',  如果github 需要自定义自域名 base 需要 /
   base: '/',
 
   lang: 'zh-CN',

@@ -123,10 +123,10 @@ export const NAV_DATA: NavData[] = [
         link: 'https://cn.vuejs.org',
       },
       {
-        icon: 'https://cn.vuejs.org/logo.svg',
-        title: 'Vue 2',
-        desc: '渐进式 JavaScript 框架',
-        link: 'https://v2.cn.vuejs.org',
+        icon: 'https://vitepress.dev/vitepress-logo-mini.svg',
+        title: 'VitePress',
+        desc: '由 Vite 和 Vue 驱动的静态站点生成器',
+        link: 'https://vitepress.dev/zh',
       },
       {
         icon: 'https://cn.vuejs.org/logo.svg',
@@ -218,10 +218,10 @@ export const NAV_DATA: NavData[] = [
         link: 'https://postcss.org',
       },
       {
-        icon: 'https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg',
-        title: 'Sass',
+        icon: 'https://sass-lang.com/assets/img/logos/logo.svg',
+        title: 'Sass&Scss',
         desc: '一个成熟，稳定，功能强大的专业级 CSS 扩展语言',
-        link: 'https://sass-lang.com',
+        link: 'https://sass-lang.com/documentation',
       },
       {
         icon: 'https://www.tailwindcss.cn/apple-touch-icon.png',

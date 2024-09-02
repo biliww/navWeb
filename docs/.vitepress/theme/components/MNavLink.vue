@@ -37,7 +37,8 @@ const svg = computed(() => {
             onerror="this.parentElement.style.display='none'"
           />
         </div>
-        <h5 v-if="title" :id="formatTitle" class="title">{{ title }}</h5>
+        <!--        <h5 v-if="title" :id="formatTitle" class="title">{{ title }}</h5>-->
+        <div v-if="title" :id="formatTitle" class="title">{{ title }}</div>
       </div>
       <p v-if="desc" class="desc">{{ desc }}</p>
     </article>
@@ -56,9 +57,11 @@ const svg = computed(() => {
   height: 100%;
   text-decoration: inherit;
   background-color: var(--vp-c-bg-alt);
+  //background-color: var(--vp-c-divider);
   transition: all 0.25s;
   &:hover {
-    box-shadow: var(--vp-shadow-2);
+    transform: translateY(-6px);
+    box-shadow: var(--vp-shadow-4);
     border-color: var(--vp-c-brand);
     text-decoration: initial;
     background-color: var(--vp-c-bg);
@@ -103,8 +106,23 @@ const svg = computed(() => {
     white-space: nowrap;
     text-overflow: ellipsis;
     line-height: var(--m-nav-icon-box-size);
+
     font-size: 16px;
     font-weight: 600;
+    position: relative;
+    //font-weight: bold;
+    //font-size: 20px;
+    //&:after{
+    //  top: 32px;
+    //  width: 22px;
+    //  left: 0px;
+    //  height: 2px;
+    //  //background: white;
+    //  background: white;
+    //  content: "";
+    //  border-radius: 1px;
+    //  position: absolute;
+    //}
   }
 
   .desc {
