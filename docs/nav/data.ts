@@ -153,6 +153,12 @@ export const NAV_DATA: NavData[] = [
         link: 'https://pinia.vuejs.org/zh',
       },
       {
+        icon: 'https://axios-http.com/assets/logo.svg',
+        title: 'axios',
+        desc: 'Promise based HTTP client for the browser and node.js',
+        link: 'https://axios-http.com/zh',
+      },
+      {
         icon: 'https://nuxt.com/icon.png',
         title: 'Nuxt.js',
         desc: '一个基于 Vue.js 的通用应用框架',
