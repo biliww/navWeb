@@ -74,16 +74,28 @@ export const NAV_DATA: NavData[] = [
         desc: 'RGB转16进制工具',
         link: 'https://www.jyshare.com/front-end/55/',
       },
+      {
+        icon: 'https://www.colorhunt.co/img/color-hunt-logo-tongue.svg',
+        title: '配色网站',
+        desc: '配色网站',
+        link: 'https://www.colorhunt.co',
+      },
     ],
   },
   {
-    title: '图像处理',
+    title: '视频&图像处理',
     items: [
       {
         icon: 'https://squoosh.app/c/favicon-c9cf50ef.ico',
         title: 'squoosh',
         desc: '图像压缩,格式转换',
         link: 'https://squoosh.app',
+      },
+      {
+        icon: '',
+        title: 'yt-dlp',
+        desc: '视频下载',
+        link: 'https://github.com/yt-dlp/yt-dlp',
       },
     ],
   },
@@ -216,6 +228,18 @@ export const NAV_DATA: NavData[] = [
         title: 'md-editor-v3',
         desc: 'Markdown编辑器Vue3版本，使用jsx和typescript语法开发，支持切换主题、prettier美化文本等',
         link: 'https://imzbf.github.io/md-editor-v3/zh-CN/docs',
+      },
+
+    ],
+  },
+  {
+    title: 'Java生态',
+    items: [
+      {
+        icon: 'https://spring.io/favicon.svg',
+        title: 'Spring',
+        desc: 'Spring',
+        link: 'https://spring.io/',
       },
 
     ],
