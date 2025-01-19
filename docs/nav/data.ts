@@ -45,6 +45,12 @@ export const NAV_DATA: NavData[] = [
     title: 'web设计汇总',
     items: [
       {
+        icon: 'https://emojipedia.org/_next/static/media/logo-dark.f50dee2a.png',
+        title: '表情',
+        desc: '表情',
+        link: 'https://emojipedia.org/',
+      },
+      {
         icon: 'https://iconify.design/favicon.svg',
         title: 'iconify',
         desc: '免费的svg图标网站',
